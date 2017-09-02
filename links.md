@@ -6,3 +6,4 @@ Arielle Cerini https://vimeo.com/232049123
 
 Alex Fig - https://youtu.be/YRdri23S3xM
 
+Emily Lockwood - https://youtu.be/JjuCQNhOCSo
