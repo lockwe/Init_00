@@ -23,6 +23,7 @@ Jessie Liao - https://vimeo.com/232569953
 Zeana Llamas - https://youtu.be/hUoTpk_7c2o
 
 Emily Lockwoood -  https://youtu.be/eGnsoFd6Eok
+  Project 1 - https://github.com/ACI-F17-ORG/Color_Note_Frequencies.git
 
 John Noonan - https://youtu.be/hOQrgDoHDQ0
 
